@@ -1,0 +1,5 @@
+Digiacomo_2017_FNInduceMacrophageMigration
+-Used murine cell lines in in vitro model and primary human macrophages
+-"FN elicits intracellular signaling by inducing integrin clustering"
+-GOAL: Investigate possible cross-talk between FN-induced singlaing and Colony Stimulating Factor-1 in macrophages
+-

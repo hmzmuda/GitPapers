@@ -1,0 +1,7 @@
+Yamada_2000_FN_CellMigration
+-"Normal wound repair depends on moleculles like fibronectin to promote cell adhesion and migration"
+-FN aguments cell migration?
+-Looks at a higher affinity ligand of finbronectin as a potential wound healing tool, not mechanistic
+Wang_2000_FNActivatesThp1
+-Adherence to fibronectin dramatically modulates the effects of TDF-beta1 on Thp1
+-Did not use PMA to stimulate, only TGF-beta
