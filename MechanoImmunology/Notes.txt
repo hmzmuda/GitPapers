@@ -1,0 +1,48 @@
+Owen_2007_MacrophageFAs
+-Unlike fibroblasts and cells undergoing EMT, macrophages have small focal complexes rather than large adhesions and produce fine actin cables rather than the stress fibers observed in cells of mesenchymal derivation
+-Macrophages also form podosomes
+	Podosomes: Podosomes are actin-rich, adhesive structures that are present at the ventral surface of cells of the monocytic myeloid lineage
+-CSF-1 receptors activation results in activation o fthe small GTPases RAc1 and Cdc42 (Cox et al 1997)
+-Experimental results
+	-Before adding CSF-1, FAK null mutant macrophages were observed to extend and retract numerous short-lived protursions
+	-After adding CSF-1, bot WT and FAK-/- exhibited circumferential spreading and fewer discrete protrusions
+		-After 4 minutes of the CSF-1 addition, increased protruive activity was evident in FAK-/-
+-These data suggest that although FAK−/− BMMs are
+capable of forming lamellipodia, they may not be able to establish
+functional adhesions to stabilize the protrusions.
+-Loss of FAK inhibited CSF-1 - induced motility
+-FAK-/- less invasive than WT
+	-> is it becuase FAK-/- are less efficient in degrading matrix?
+	->Nope, both degrade FN in similar manner
+	-> Means it is due to lack of FAK signalling
+-Rac1 activity increases in FAK-/- cells 
+	->Rho family GTPases Cdc42, Rac1 and Rho act at different regions in a cell (indicated by arrows) to orchestrate migration.
+		Cdc42 generally controls the cell polarity and the formation of filopodia and nascent focal adhesions (shown as yellow dots). Rho influences cell adhesion assembly and maturation, in addition to controlling stress fiber formation and contractile activity.
+		Rac1 primarily controls actin assembly and nascent adhesion formation in the lamellipodium.
+
+Cermak et al. 2018
+-Majority of immune cells are ameboid type, with the exception of M2 macrophages which are more mesenchymal
+-This study wantes to find how collagen density affects cell morphology and migration of M2 human primary macrophages
+-Lower density 3D collagen (1.7 mg/mL)
+	Ameboid Invasion
+-Higher density 3D collagen (4.8mg/mL)
+	Mesenchymal migration
+
+Cougoule_2012_MacrophagePhenotype_3D
+-T lympohcytes, neutrophils and monocytes were unable to infilitrate Matrigel (dense collagen structure)
+	and form podosomes. Therefore cannot do mesenchymal migration
+-M2 macrophages (IL-4) were able to migrate in fibrillar collagen I (ameboid migration) and Matrigel (mesenchymal migration)
+-M1 macrophages (IFN-gamma) were unable to mirate into fibrillar collagen I or in Matrigel
+-M1 macrophages did not migrate while M2 migrated (in 2D transwell assay)
+	-Is this becuase of adhesion dynamics??? -> yes because M1s form more stable podosomes
+-"These resultsindicate that M1 macrophages have a reduced podosome turnover compared to M2"
+-Thus the proteolytic activity of M1 macrophages which form more stable podosomes appeared to be similar to M2 cells which form podosome rosettes and are motile
+
+
+Hind_2016_M1M2_MotilityAndTranction
+-M1 gene expression: CCR7, IL-1beta, MMP9
+-M2 gene expression: CCL22, TIMP3
+-"random motility coefficient" significantly smaller for M1 macrophages compared to M0 and M2 macrophages
+	"The random motility coefficient is a relative diffusion coefficient for the cells in a uniform chemokine field"
+
+Murrey_2020_MacrophageMotility&Adhesions
