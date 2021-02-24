@@ -1,0 +1,23 @@
+Notes on "Modular actin nano-arcitecture enables podosome protrusion and mechanosensing"
+Terms and core concepts:
+-invadosomes = collective term for invadopodia and podosomes
+-Podosomes are characterised by actin-rich core and surrounded by an adhesive ring (vinculin and talin)
+	Neighboring podosomes are interconnected by a network of bundled actin filaments that
+	radiate from the podosome core and facilitate a mesoscale connectivity
+-vinculin = Vinculin is a cytoskeletal protein associated with cell-cell and cell-matrix junctions, where it is thought to function as one of several interacting proteins involved in anchoring F-actin to the membrane.
+cPM = central part of the podosome core
+pPM = core periphery (slightly out, Fig 1c)
+-previously shown that blocking myosin IIA (using blebbistatin) arrested podosome pushing behavior and mesoscale coordination, but the organization of the mechanosensitive proteins zyxin and vinculin remained unaltered
+Goal of the paper:
+-reveal actin nano-architecture that enables podosome protrusion and mechanosensing
+-how podosome mechanosensing relates to podosome mesocale connectivity and degrative capacitiy remains elusive
+-
+Interesting Methods:
+-doing radial fluorescence profile analysis to observe wheter WASP is expressed inside the actin or in another area
+	found it is expressed inside the actin
+Main Results:
+-the 700nm podosome core consists of two distinct components: (1) a branched beta-actin-rich central module (cPM) where WASP, cortiactin, and Arp2/3 are found, and 
+(2) a linear gamma-actin-rich periperal module (pPM) which completely encases the cPM and is crosslinked by alpha-actinin and partially bound by vinculin
+
+Interesting info:
+-WASP, arp2/3 and cortactin associate with branched actin while alpha-actinin primarily associates with linear actin filaments
